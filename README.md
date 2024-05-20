@@ -1,7 +1,7 @@
 <h1>Fruta & Fruto - Receitas</h1>
 
 <h2> ✉️ Sobre</h2>
-<p>Projeto para arquitetura CSS</p>
+<p>Projeto para praticar arquitetura CSS</p>
 
 ## 🚀 Tecnologias
 <div>
